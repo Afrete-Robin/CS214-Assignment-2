@@ -1,0 +1,17 @@
+Known optimal profits for the attached 0/1 knapsack benchmark instances
+=====================================================================
+
+file        n       capacity W     optimal profit
+---------------------------------------------------------------------
+p01.kp      10      165            309
+p02.kp      5       26             51
+p03.kp      6       190            150
+p04.kp      7       50             107
+p05.kp      8       104            900
+p06.kp      7       170            1735
+p07.kp      15      750            1458
+p08.kp      24      6404180        13549094
+
+Source: https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
+All eight optima above were re-verified with an exact O(nW) dynamic
+programming solver before this assignment was released.

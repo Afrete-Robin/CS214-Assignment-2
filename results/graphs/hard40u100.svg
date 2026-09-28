@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<text x="90" y="30" font-family="Georgia,serif" font-size="22" fill="#172b2a">hard40u100.kp | profit vs. NFC</text>
+<line x1="92.000000" y1="442.000000" x2="866.000000" y2="442.000000" stroke="#d9ddd7"/>
+<text x="80" y="446.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">0</text>
+<line x1="92.000000" y1="364.000000" x2="866.000000" y2="364.000000" stroke="#d9ddd7"/>
+<text x="80" y="368.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">1463</text>
+<line x1="92.000000" y1="286.000000" x2="866.000000" y2="286.000000" stroke="#d9ddd7"/>
+<text x="80" y="290.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">2926</text>
+<line x1="92.000000" y1="208.000000" x2="866.000000" y2="208.000000" stroke="#d9ddd7"/>
+<text x="80" y="212.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">4389</text>
+<line x1="92.000000" y1="130.000000" x2="866.000000" y2="130.000000" stroke="#d9ddd7"/>
+<text x="80" y="134.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">5852</text>
+<line x1="92.000000" y1="52.000000" x2="866.000000" y2="52.000000" stroke="#d9ddd7"/>
+<text x="80" y="56.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">7315</text>
+<line x1="92.000000" y1="52" x2="92.000000" y2="442.000000" stroke="#e5e8e2"/>
+<text x="92.000000" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^0</text>
+<line x1="249.950872" y1="52" x2="249.950872" y2="442.000000" stroke="#e5e8e2"/>
+<text x="249.950872" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^1</text>
+<line x1="407.901743" y1="52" x2="407.901743" y2="442.000000" stroke="#e5e8e2"/>
+<text x="407.901743" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^2</text>
+<line x1="565.852615" y1="52" x2="565.852615" y2="442.000000" stroke="#e5e8e2"/>
+<text x="565.852615" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^3</text>
+<line x1="723.803487" y1="52" x2="723.803487" y2="442.000000" stroke="#e5e8e2"/>
+<text x="723.803487" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^4</text>
+<line x1="92" y1="52" x2="92" y2="442" stroke="#172b2a" stroke-width="1.5"/>
+<line x1="92" y1="442" x2="866" y2="442" stroke="#172b2a" stroke-width="1.5"/>
+<text x="479.000000" y="502" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#172b2a">NFC (Number of Function Calls, logarithmic scale)</text>
+<text transform="translate(24 247.000000) rotate(-90)" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#172b2a">Profit (best feasible)</text>
+<polyline fill="none" stroke="#087f6b" stroke-width="2.5" stroke-linejoin="round" points="92.00,442.00 612.95,442.00 612.95,426.91 660.50,426.91 660.50,393.00 688.31,393.00 688.31,379.51 708.05,379.51 708.05,379.03 723.36,379.03 723.36,378.23 735.86,378.23 735.86,340.81 746.44,340.81 746.44,307.75 755.60,307.75 755.60,307.75 763.68,307.75 763.68,307.75 770.90,307.75 770.90,307.75 777.44,307.75 777.44,289.36 783.41,289.36 783.41,289.36 788.90,289.36 788.90,289.36 793.99,289.36 793.99,289.36 798.72,289.36 798.72,262.75 803.15,262.75 803.15,262.75 807.30,262.75 807.30,215.67 811.22,215.67 811.22,215.67 814.93,215.67 814.93,215.67 818.45,215.67 818.45,215.67 821.80,215.67 821.80,205.38 824.99,205.38 824.99,205.38 828.04,205.38 828.04,198.82 830.96,198.82 830.96,173.34 833.76,173.34 833.76,173.34 836.45,173.34 836.45,173.34 839.04,173.34 839.04,151.37 841.53,151.37 841.53,141.14 843.94,141.14 843.94,113.57 846.27,113.57 846.27,113.57 848.52,113.57 848.52,113.57 850.69,113.57 850.69,102.38 852.80,102.38 852.80,102.38 854.85,102.38 854.85,102.38 856.84,102.38 856.84,102.38 858.77,102.38 858.77,80.89 860.65,80.89 860.65,80.89 862.48,80.89 862.48,80.89 864.26,80.89 864.26,80.89 866.00,80.89 866.00,80.89 " data-series="DP" data-max-nfc="79480"/>
+<polyline fill="none" stroke="#d05b37" stroke-width="2.5" stroke-linejoin="round" points="487.69,85.32 535.02,82.25 562.77,81.03 582.46,80.91 597.75,80.91 610.24,80.89 620.81,80.89 629.96,80.89 " data-series="GA mean" data-max-nfc="79480"/>
+<rect x="610" y="58" width="14" height="4" fill="#087f6b"/><text x="632" y="64" font-family="Arial,sans-serif" font-size="12" fill="#172b2a">Exact DP</text><rect x="710" y="58" width="14" height="4" fill="#d05b37"/><text x="732" y="64" font-family="Arial,sans-serif" font-size="12" fill="#172b2a">GA mean over runs</text></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<text x="90" y="30" font-family="Georgia,serif" font-size="22" fill="#172b2a">p06.kp | profit vs. NFC</text>
+<line x1="92.000000" y1="442.000000" x2="866.000000" y2="442.000000" stroke="#d9ddd7"/>
+<text x="80" y="446.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">0</text>
+<line x1="92.000000" y1="364.000000" x2="866.000000" y2="364.000000" stroke="#d9ddd7"/>
+<text x="80" y="368.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">375</text>
+<line x1="92.000000" y1="286.000000" x2="866.000000" y2="286.000000" stroke="#d9ddd7"/>
+<text x="80" y="290.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">750</text>
+<line x1="92.000000" y1="208.000000" x2="866.000000" y2="208.000000" stroke="#d9ddd7"/>
+<text x="80" y="212.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">1124</text>
+<line x1="92.000000" y1="130.000000" x2="866.000000" y2="130.000000" stroke="#d9ddd7"/>
+<text x="80" y="134.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">1499</text>
+<line x1="92.000000" y1="52.000000" x2="866.000000" y2="52.000000" stroke="#d9ddd7"/>
+<text x="80" y="56.000000" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#526260">1874</text>
+<line x1="92.000000" y1="52" x2="92.000000" y2="442.000000" stroke="#e5e8e2"/>
+<text x="92.000000" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^0</text>
+<line x1="343.454297" y1="52" x2="343.454297" y2="442.000000" stroke="#e5e8e2"/>
+<text x="343.454297" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^1</text>
+<line x1="594.908594" y1="52" x2="594.908594" y2="442.000000" stroke="#e5e8e2"/>
+<text x="594.908594" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^2</text>
+<line x1="846.362890" y1="52" x2="846.362890" y2="442.000000" stroke="#e5e8e2"/>
+<text x="846.362890" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#526260">10^3</text>
+<line x1="92" y1="52" x2="92" y2="442" stroke="#172b2a" stroke-width="1.5"/>
+<line x1="92" y1="442" x2="866" y2="442" stroke="#172b2a" stroke-width="1.5"/>
+<text x="479.000000" y="502" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#172b2a">NFC (Number of Function Calls, logarithmic scale)</text>
+<text transform="translate(24 247.000000) rotate(-90)" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#172b2a">Profit (best feasible)</text>
+<polyline fill="none" stroke="#087f6b" stroke-width="2.5" stroke-linejoin="round" points="92.00,442.00 653.50,442.00 653.50,350.01 729.19,350.01 729.19,240.74 773.47,240.74 773.47,134.38 804.89,134.38 804.89,102.95 829.26,102.95 829.26,95.67 849.17,95.67 849.17,91.92 866.00,91.92 866.00,80.89 " data-series="DP" data-max-nfc="1197"/>
+<polyline fill="none" stroke="#d05b37" stroke-width="2.5" stroke-linejoin="round" points="539.12,81.08 612.98,80.89 " data-series="GA mean" data-max-nfc="1197"/>
+<rect x="610" y="58" width="14" height="4" fill="#087f6b"/><text x="632" y="64" font-family="Arial,sans-serif" font-size="12" fill="#172b2a">Exact DP</text><rect x="710" y="58" width="14" height="4" fill="#d05b37"/><text x="732" y="64" font-family="Arial,sans-serif" font-size="12" fill="#172b2a">GA mean over runs</text></svg>

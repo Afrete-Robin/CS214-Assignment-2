@@ -1,0 +1,17 @@
+NAME: p05
+TYPE: KP01
+COMMENT: 0/1 knapsack instance P05 (Burkardt KNAPSACK_01 dataset; P07/P08 from Kreher & Stinson)
+DIMENSION: 8
+CAPACITY: 104
+OPTIMAL: 900
+ITEM_SECTION
+# index  weight  profit
+   1  25  350
+   2  35  400
+   3  45  450
+   4   5   20
+   5  25   70
+   6   3    8
+   7   2    5
+   8   2    5
+EOF
